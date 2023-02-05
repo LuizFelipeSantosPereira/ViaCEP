@@ -13,8 +13,7 @@
 Obrigado por dar uma olhada nesse projeto para front-end.
 
 
-Esse projeto foi idealizado pelo curso da Alura "[JavaScript: consumindo e tratando dados de uma API
-](https://cursos.alura.com.br/course/javascript-validacoes-reconhecimento-voz)".   
+Esse projeto foi idealizado pelo curso da Alura "[JavaScript: consumindo e tratando dados de uma API](https://cursos.alura.com.br/course/javascript-consumindo-tratando-dados-api)".   
 
 **Para visualizar, [clique aqui.](https://luizfelipesantospereira.github.io/ViaCEP/)**
 
